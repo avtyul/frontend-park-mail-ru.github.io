@@ -1,7 +1,6 @@
 node_modules
 .idea
 .sass-cache
-Gemfile
 Gemfile.lock
 ._*
 .DS_Store
